@@ -45,6 +45,6 @@ sample_matrix = [
     [0, 0, 2, 0, 0]
 ]
 power = 3
-
+#eee
 # Find the best attack position and direction
 find_best_attack(sample_matrix, power)
